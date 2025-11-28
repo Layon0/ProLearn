@@ -1,4 +1,4 @@
-# ProLearn – Experiência Prática IV (SQL)
+# ProLearn – Experiência Prática 4 (SQL)
 
 Este repositório contém os scripts SQL referentes à Experiência Prática 4,
 da disciplina Modelagem e Banco de Dados.
